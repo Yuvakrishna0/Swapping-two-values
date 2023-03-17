@@ -30,7 +30,8 @@ num2=temp
 print("Swapped values are: {} {}".format(num1,num2))
 ```
 ## OUTPUT
-/home/sec/exp1/swap.png
+
+![swap](https://user-images.githubusercontent.com/117915037/225924757-4b0c4b1e-e324-4297-8151-32d460416934.png)
 
 
 ## RESULT:
