@@ -30,7 +30,7 @@ num2=temp
 print("Swapped values are: {} {}".format(num1,num2))
 ```
 ## OUTPUT
-![SWAP](/exp1.png)
+![SWAP](/swap.png)
 
 
 ## RESULT:
